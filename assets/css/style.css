@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+:root {
+    --jd-yellow: #ffde14;
+    --jd-black: #111111;
+    --jd-grey: #f3f3f3;
+    --jd-white: #ffffff;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: var(--jd-black);
+    background: var(--jd-white);
+}
+
+h1, h2, h3 {
+    font-weight: 800;
+    letter-spacing: -0.03em;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+a {
+    color: var(--jd-black);
+    text-decoration-color: var(--jd-yellow);
+    text-decoration-thickness: 3px;
+}
