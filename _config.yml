@@ -1,5 +1,5 @@
 title: Portfolio Title Placeholder
-logo: /assets/img/dspp_avatar.svg
+logo: assets/img/dspp_avatar.svg
 description: Image description placeholder.
 show_downloads: true
 remote_theme: pages-themes/midnight@v0.2.0
