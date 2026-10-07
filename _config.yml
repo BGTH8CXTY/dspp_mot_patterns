@@ -2,6 +2,6 @@ title: Portfolio Title Placeholder
 logo: /assets/img/dspp_avatar.png
 description: Image description placeholder.
 show_downloads: true
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/primer@v0.6.0
 plugins:
 - jekyll-remote-theme
